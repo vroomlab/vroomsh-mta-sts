@@ -1,5 +1,5 @@
 version: STSv1
-mode: none
-mx: mail.protonmail.ch
-mx: mailsec.protonmail.ch
+mode: testing
+mx: redbull.mxrouting.net
+mx: redbull-relay.mxrouting.net
 max_age: 604800
