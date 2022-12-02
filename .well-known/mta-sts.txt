@@ -2,4 +2,4 @@ version: STSv1
 mode: testing
 mx: redbull.mxrouting.net
 mx: redbull-relay.mxrouting.net
-max_age: 604800
+max_age: 86400
